@@ -123,4 +123,7 @@ Possible improvements would include:
 At this stage, I understand the basic scaling concepts, although I would need more experience designing highly available production systems at large scale.
 
 # Images
+![Architecture Diagram](images/ec2-dashboard.png)
+![Architecture Diagram](images/ec2-instance.png)
 ![Architecture Diagram](images/s3-bucker.png)
+
